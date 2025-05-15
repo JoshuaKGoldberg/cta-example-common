@@ -4,7 +4,7 @@
 	"description": "An example of create-typescript-app's Common preset. ✅",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bingo-examples/created-typescript-app-common.git"
+		"url": "git+https://github.com/bingo-js/created-typescript-app-common.git"
 	},
 	"license": "MIT",
 	"author": {
@@ -59,7 +59,7 @@
 		"lint-staged": "16.0.0",
 		"markdownlint": "0.38.0",
 		"markdownlint-cli": "0.44.0",
-		"prettier": "^3.5.3",
+		"prettier": "3.5.3",
 		"prettier-plugin-curly": "0.3.2",
 		"prettier-plugin-packagejson": "2.5.13",
 		"prettier-plugin-sh": "0.17.4",
