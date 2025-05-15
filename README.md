@@ -2,7 +2,7 @@
 
 <p align="center">
 	An example of <a href="https://github.com/JoshuaKGoldberg/create-typescript-app">create-typescript-app</a>'s Common preset.
-	✨
+	✅
 </p>
 
 <p align="center">
