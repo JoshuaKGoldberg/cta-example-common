@@ -1,7 +1,7 @@
 {
 	"name": "created-typescript-app-common",
 	"version": "0.1.0",
-	"description": "An example of create-typescript-app's Common preset. ✨",
+	"description": "An example of create-typescript-app's Common preset. ✅",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/bingo-examples/created-typescript-app-common.git"
